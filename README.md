@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @EdwardOrbora.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m a web developer.
+- 🌱 I’m best in;
+-  python,
+-   html,
+-  css,
+-  bootstrap,
+-  and django
 - 💞️ I’m looking to collaborate on Web development projects.
 - 📫 How to reach at:
   edwardlapanu@gmail.com
